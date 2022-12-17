@@ -26,7 +26,7 @@ Additionally this example prompts the user for confirmation before restoring the
 
 # Slices_Manipulation
 
--- Slice_Manipulation_Convert_Delete.go --
+-- Slice_Manipulation.go --
 
 Some practical examples “How To” remove a specific element or an element on specific index from slices[] or convert slices into different data type with GO
 

@@ -24,3 +24,12 @@ This example uses the "pg_restore" command to restore the "mydatabase" database 
 
 Additionally this example prompts the user for confirmation before restoring the database, and only proceeds with the restore if the user enters "y". Optionally you can bypass this promt by commeting out the code called "Prompt the user for confirmation".
 
+# Slices_Manipulation
+
+-- Slice_Manipulation_Convert_Delete.go --
+
+Some practical examples “How To” remove a specific element or an element on specific index from slices[] or convert slices into different data type with GO
+
+This is an example and you may need to add extra code to prevent some errors!
+
+Visit and test in Playground: https://go.dev/play/p/4Hyilpr5POB
